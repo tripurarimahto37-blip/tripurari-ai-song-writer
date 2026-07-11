@@ -1,0 +1,6 @@
+{
+  "name": "Tripurari AI Song Writer",
+  "description": "A modern responsive AI-powered song writing website that generates custom lyrics in Hindi, Bhojpuri, Maithili, and English across multiple musical styles and lengths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
